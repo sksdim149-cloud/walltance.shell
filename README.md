@@ -23,7 +23,7 @@ A lightweight, techno-minimalist interactive shell written in **Rust**. Designed
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/walltance.git](https://github.com/yourusername/walltance.git)
+git clone https://github.com/sksdim149-cloud/walltance.shell.git
 cd walltance
 
 # Build and install locally
